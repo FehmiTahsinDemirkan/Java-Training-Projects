@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HipotenusHesapla/HipotenusHesapla.iml" filepath="$PROJECT_DIR$/HipotenusHesapla/HipotenusHesapla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KDVHesaplama/KDVHesaplama.iml" filepath="$PROJECT_DIR$/KDVHesaplama/KDVHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrtalamaHesaplama/OrtalamaHesaplama.iml" filepath="$PROJECT_DIR$/OrtalamaHesaplama/OrtalamaHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SepetTutariHesaplama/SepetTutariHesaplama.iml" filepath="$PROJECT_DIR$/SepetTutariHesaplama/SepetTutariHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleJavaProject.iml" filepath="$PROJECT_DIR$/SimpleJavaProject.iml" />
+    </modules>
+  </component>
+</project>
