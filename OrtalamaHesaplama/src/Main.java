@@ -14,7 +14,7 @@ public class Main {
         Scanner input=new Scanner(System.in); //Kullanıcıdan veri almamıza olanak sağlar
         int fiz,mat,turk,kim,muz,tar;
         double ortalama;
-        System.out.println("Fizik Notunuzu giriniz: ");
+        System.out.println(" Notunuzu giriniz: ");
         fiz = input.nextInt();
         System.out.println("Matematik Notunuzu giriniz: ");
         mat = input.nextInt();
