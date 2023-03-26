@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/HipotenusHesapla/HipotenusHesapla.iml" filepath="$PROJECT_DIR$/HipotenusHesapla/HipotenusHesapla.iml" />
       <module fileurl="file://$PROJECT_DIR$/KDVHesaplama/KDVHesaplama.iml" filepath="$PROJECT_DIR$/KDVHesaplama/KDVHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/OrtalamaHesaplama/OrtalamaHesaplama.iml" filepath="$PROJECT_DIR$/OrtalamaHesaplama/OrtalamaHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/SepetTutariHesaplama/SepetTutariHesaplama.iml" filepath="$PROJECT_DIR$/SepetTutariHesaplama/SepetTutariHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleJavaProject.iml" filepath="$PROJECT_DIR$/SimpleJavaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taksimetre/Taksimetre.iml" filepath="$PROJECT_DIR$/Taksimetre/Taksimetre.iml" />
       <module fileurl="file://$PROJECT_DIR$/VucudKutleIndexiHesaplama/VucudKutleIndexiHesaplama.iml" filepath="$PROJECT_DIR$/VucudKutleIndexiHesaplama/VucudKutleIndexiHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YildizUcgen/YildizUcgen.iml" filepath="$PROJECT_DIR$/YildizUcgen/YildizUcgen.iml" />
     </modules>
   </component>
 </project>
